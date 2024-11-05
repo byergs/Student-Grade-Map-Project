@@ -11,7 +11,7 @@
  - GPS coordinates were linked to student addresses and the number of failed courses for each student was calculated in SQL Server
 
    ### SQL Server Query:
-   ![](images/YerglerBen2022-23.JPG)
+   ![](./images/YerglerBen2022-23.JPG)
 
 ### Making Student Addresses Anonymous
 - The GPS coordinates were disguised by creating a random set of values by which the longitude and latitude were adjusted.
