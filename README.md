@@ -19,7 +19,7 @@
 - The adjustments were kept small (within 500 feet) to preserve the approximate location and distribution of student failures
 
    ### Python Code:
-   ![](images/GPS-adjustment-python.jpg)
+  ![GPS-adjustment-python](https://github.com/user-attachments/assets/65adc669-c70b-4688-8c7b-bb0e36894e6e)
   
 ### Data Visualized in Tableau
 - The number of classes failed was represented by both the size and color of the point to highlight areas where Fs are more common
