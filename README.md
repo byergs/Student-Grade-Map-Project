@@ -11,11 +11,11 @@
  - GPS coordinates were linked to student addresses and the number of failed courses for each student was calculated in SQL Server
 
    ### SQL Server Query:
-   ![](images/SQL-Grade-Address-Join.jpg)
+   ![](./images/SQL-Grade-Address-Join.jpg)
 
 ### Making Student Addresses Anonymous
 - The GPS coordinates were disguised by creating a random set of values by which the longitude and latitude were adjusted.
-- A set of random values were created using Python and added to the real longitude and latitude values in Excel
+- A set of random values was created using Python and added to the real longitude and latitude values in Excel
 - The adjustments were kept small (within 500 feet) to preserve the approximate location and distribution of student failures
 
    ### Python Code:
